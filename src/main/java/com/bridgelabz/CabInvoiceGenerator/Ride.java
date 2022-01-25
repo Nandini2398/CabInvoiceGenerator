@@ -2,11 +2,10 @@ package com.bridgelabz.CabInvoiceGenerator;
 
 public class Ride {
 		
-		public double distance;
-		public int time;
-		
-		Ride(double distance, int time){
-			this.distance = distance;
-			this.time = time;
-		}
+	public double distance;
+	public int time;
+	Ride(double distance, int time){
+		this.distance = distance;
+		this.time = time;
 	}
+}
